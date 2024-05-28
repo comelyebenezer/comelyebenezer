@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @comelyebenezer
-- 👀 I’m interested in web development and world transforming technologies
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects that is transforming and wowing, including other projects that is world transforming.
+- 👀 I’m interested in web development and Artificial intelligence
+- 🌱 I’m currently learning Full stack web development 
+- 💞️ I’m looking to collaborate on web development projects that is transforming including other projects that is world transforming.
 - 📫 You can reach me on twitter(X) @comely.jr
 - 😄 Pronouns: Male
 - ⚡ Fun fact: Travelling, Driving Cars, Eating and Playing Games
